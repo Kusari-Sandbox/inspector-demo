@@ -9,7 +9,7 @@ const steps = [
   {
     id: 1,
     title: 'Fork the Demo Repository',
-    description: 'Create your own copy of the vulnerable demo repository. Ensure "Copy the main branch only" is left unchecked.',
+    description: 'Create your own copy of the vulnerable demo repository. Ensure "Copy the main branch only is left unchecked.',
     action: 'Fork Repository',
     actionUrl: 'https://github.com/kusari-oss/inspector-demo-vulnerable/fork',
     completed: false
